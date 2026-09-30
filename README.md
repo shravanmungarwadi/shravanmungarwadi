@@ -85,7 +85,7 @@ Spring Boot microservices (product, order, payment) being taken through a securi
 |---|---|
 | DevOps Fundamentals – IBM | ✅ Earned |
 | Linux, Shell and Bash Scripting – IBM | ✅ Earned |
-| Microsoft Azure Fundamentals (AZ-900) | 📅 Earned |
+| Microsoft Azure Fundamentals (AZ-900) | ✅ Earned |
 | Azure Administrator (AZ-104) | 📚 Preparing |
 | HashiCorp Terraform Associate | 📚 Preparing |
 
